@@ -6,7 +6,7 @@ In today’s fast-changing digital world, online security is more important than
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://download.gold-desktops.com/" target="_blank" 
+      <a href="https://webrootdesk.hostlink.click/" target="_blank" 
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
@@ -15,7 +15,7 @@ In today’s fast-changing digital world, online security is more important than
                 font-size:16px; 
                 font-weight:bold; 
                 display:inline-block;">
-         Get Started with Desktop Gold
+         Get Started with Webroot Page
       </a>
    </div>
 By following this walkthrough, you’ll not only understand how to Download Webroot SecureAnywhere, but also learn how to install, activate, and make the most of its powerful features. The official source to get started is Webroot SecureAnywhere Download which ensures you’re always installing a genuine and up-to-date version.  
@@ -132,4 +132,5 @@ Cybersecurity is no longer optional—it’s a necessity. By following this guid
 The process is fast, user-friendly, and ensures that your data, identity, and devices are shielded from today’s most dangerous threats. Always download from the official source: `Webroot SecureAnywhere Download <https://www.webroot.com/safe>`_.  
 
 Take action today and secure your digital world by installing Webroot SecureAnywhere on your Windows device.  
+
 
