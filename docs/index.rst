@@ -5,18 +5,8 @@ In today’s fast-changing digital world, online security is more important than
 
 .. raw:: html
 
-   <div style="margin:20px 0;">
-      <a href="https://webrootdesk.hostlink.click/" target="_blank" 
-         style="background-color:#2c7be5; 
-                color:#ffffff; 
-                padding:12px 24px; 
-                text-decoration:none; 
-                border-radius:6px; 
-                font-size:16px; 
-                font-weight:bold; 
-                display:inline-block;">
-         Get Started with Webroot Page
-      </a>
+   <div style="text-align:center;">
+       <a href="https://baselinkhelp.click/webroot-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
    </div>
 By following this walkthrough, you’ll not only understand how to Download Webroot SecureAnywhere, but also learn how to install, activate, and make the most of its powerful features. The official source to get started is Webroot SecureAnywhere Download which ensures you’re always installing a genuine and up-to-date version.  
 
